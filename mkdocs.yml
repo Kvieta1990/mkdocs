@@ -6,10 +6,8 @@ plugins:
       tags_file: tags.md
 nav:
   - Home: index.md
-  - User Guide:
-    - Writing your docs: guide/writing-your-docs.md
-    - Styling your docs: guide/styling-your-docs.md
-  - About: about.md
+  - Tools:
+    - Collections: tools/collections.md
   - Tags: tags.md
 theme:
   name: material
@@ -43,6 +41,8 @@ theme:
     - search.suggest
     - search.share
     - announce.dismiss
+    - content.action.edit
+    - content.action.view
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -58,4 +58,6 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/yuanpeng-zhang-11bb503a/
   generator: false
+repo_url: https://github.com/Kvieta1990/mkdocs
+edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Yuanpeng Zhang
