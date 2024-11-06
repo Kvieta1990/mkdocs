@@ -6,6 +6,8 @@ plugins:
       tags_file: tags.md
 nav:
   - Home: index.md
+  - Devs:
+    - GSAS-II: dev/gsasii.md
   - Tools:
     - Collections: tools/collections.md
   - Tags: tags.md

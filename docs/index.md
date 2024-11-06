@@ -1,4 +1,3 @@
-# Hello Material for MkDocs
+# Documentations Collection
 
-[https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
-
+Welcome to the documentation collections by Yuanpeng Zhang. The doc service is hosted using [mkdocs](https://www.mkdocs.org/)
